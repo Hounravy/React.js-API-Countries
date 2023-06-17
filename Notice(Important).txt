@@ -1,0 +1,15 @@
+* This project is not completed 100% yet.
+=> Project was completed as below:
+	- Flags use png file within flags property
+        - Country Name (name.official)
+        - 2 character Country Code (cca2)
+        - 3 character Country Code (cca3)
+        - Native Country Name (name.nativeName)
+        - Alternative Country Name (altSpellings)
+        - Country Calling Codes (idd)
+   	 - Search by Country Name (Fuzzy Search)
+   	 - After clicked on country name, show all others informations.
+=> What we would to do next phase:
+	- Pagination (25 rows per page)
+	- After clicked on country name, pop up a modal and show all others informations.
+	- Sorting by Country Name (Asc,Desc)
